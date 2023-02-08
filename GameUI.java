@@ -22,7 +22,7 @@ public class GameUI {
 	}
 	
 	public static void main(String[] args) {
-
+    //first retrieve file and read file. Complete read file part first.
 		
 	}
 }

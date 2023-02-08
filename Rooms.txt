@@ -1,10 +1,28 @@
-#1
-#Main Entrance
-#You finally arrive at the Castle and know what you must do.
+1
+Main Entrance
+You finally arrive at the Castle and know what you must do.
 The only problem is that you do not know where to go. 
 As you reach the entrance to the castle you realize that there are two paths available to you. 
 North where it seems like there is a cemetery gate, 
 or West where the main house is located.
-#Cemetery Grounds
-#Elegant Front Door
-#True
+true
+----
+NORTH 2
+____
+2
+Cemetery Grounds
+description goes here
+false
+----
+NORTH 3
+SOUTH 1
+----
+3
+Elegant Front Door
+description goes here
+another description goes here
+false
+----
+UP 1
+DOWN 2
+----
